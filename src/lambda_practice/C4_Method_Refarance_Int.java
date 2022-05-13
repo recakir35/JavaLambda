@@ -15,7 +15,6 @@ public class C4_Method_Refarance_Int {
     public static void main(String[] args) {
         List<Integer> intL= Arrays.asList(-2,-8,-5,0,2,5,6,7,15,6,8);
 
-
     }
     // S1: tekleri aralarinda bir bosluk birakarak yazdiralim
 
