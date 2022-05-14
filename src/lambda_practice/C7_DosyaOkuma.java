@@ -35,6 +35,7 @@ public class C7_DosyaOkuma {
     // S1: Yazdiralim
 //satir.forEach(System.out::println);
 
+
     //S2: tum harflari buyuk harf ile yazdiralim
 satir.map(t->t.toUpperCase()).forEach(System.out::println);
 
