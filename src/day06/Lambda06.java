@@ -137,3 +137,4 @@ public class Lambda06 {
                 forEach(System.out::println);
     }
 }
+
