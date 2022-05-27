@@ -135,6 +135,8 @@ public class Lambda06 {
                         flatMap(Arrays::stream).
                 distinct().
                 forEach(System.out::println);
+
     }
 }
+
 
