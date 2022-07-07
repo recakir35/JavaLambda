@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef9ee207-f9ff-4049-a201-858fe956d6ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLambda/Lambda01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLambda/Lambda02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/AracKiralama/AracTalebi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/AracKiralama/MusteriVeArabaBilgisiGirisi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/AracKiralama/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day01/C01_stream_foreach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day01/C02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day01/C03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day01/C04_filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day01/C_Utilities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day02/C01_map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day02/C02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day02/C03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day02/C04_reduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day02/C05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day02/C06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day02/C07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day02/C08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day02/C09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day02/C10_sorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day02/C11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day03/C01_distinct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day03/C02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day03/C03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day03/C04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day03/C05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day03/C06_allMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day03/C07_noneMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day03/C08_anyMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day03/C09_findFirst_limit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day03/C10_skip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day04/Lambda04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day04/Lambda04Printf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day04/Universite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day05/C01_range.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day05/C02_rangeClosed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day05/C03_iterate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day05/C04_iterate1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day05/C05_iterate2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day05/C06_iterate3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day05/C07_multiplyExact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day05/C08_iterate4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day06/Lambda06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/day06/haluk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambdaSearch/Lambda 02.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambdaSearch/Lambda Optional.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambdaSearch/Lambda-stream.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambdaSearch/Lambda01-FONKSİYONEL PROGRAMLAMA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambdaSearch/Lambda02-STREAMS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambdaSearch/araIslemler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambdaSearch/lambda mulkat sorulari.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambdaSearch/terminalIslemler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambda_practice/C0_Lambda_Aciklamalar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambda_practice/C1_IntList_StreamOrnekleri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambda_practice/C2_StringList_StreamOrnekleri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambda_practice/C3_Array_StreamOrnekleri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambda_practice/C3_MultiArrays_StreamOrnekleri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambda_practice/C4_Method_Refarance_Int.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambda_practice/C5_Method_Referance_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambda_practice/C6_Lambdada_ForLoop_Aralik_Kontrolu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambda_practice/C7_DosyaOkuma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambda_practice/Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambda_practice/_araIslemler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda/lambda_practice/_terminalIslemler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AracKiralama/AracTalebi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AracKiralama/MusteriVeArabaBilgisiGirisi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AracKiralama/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/C01_stream_foreach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/C02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/C03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/C04_filter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/C_Utilities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C01_map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C04_reduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C10_sorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/C11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/C01_distinct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/C02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/C03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/C04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/C05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/C06_allMatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/C07_noneMatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/C08_anyMatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/C09_findFirst_limit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/C10_skip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04/Lambda04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04/Lambda04Printf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04/Universite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/C01_range.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/C02_rangeClosed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/C03_iterate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/C04_iterate1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/C05_iterate2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/C06_iterate3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/C07_multiplyExact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/C08_iterate4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Lambda06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/haluk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaSearch/Lambda 02.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaSearch/Lambda Optional.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaSearch/Lambda-stream.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaSearch/Lambda01-FONKSİYONEL PROGRAMLAMA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaSearch/Lambda02-STREAMS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaSearch/araIslemler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaSearch/lambda mulkat sorulari.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaSearch/terminalIslemler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/C0_Lambda_Aciklamalar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/C1_IntList_StreamOrnekleri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/C2_StringList_StreamOrnekleri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/C3_Array_StreamOrnekleri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/C3_MultiArrays_StreamOrnekleri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/C4_Method_Refarance_Int.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/C5_Method_Referance_String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/C6_Lambdada_ForLoop_Aralik_Kontrolu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/C7_DosyaOkuma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/C7_TextFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/_araIslemler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_practice/_terminalIslemler.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Bd8ORET0NejnoZLf6ANgdsUdBz" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef9ee207-f9ff-4049-a201-858fe956d6ad" name="Changes" comment="" />
+      <created>1657224569381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657224569381</updated>
+    </task>
+    <servers />
+  </component>
+</project>
